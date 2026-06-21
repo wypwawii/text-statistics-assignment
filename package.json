@@ -1,0 +1,12 @@
+{
+  "name": "text-statistics-assignment",
+  "version": "1.0.0",
+  "description": "Задание: функции для работы со словами в строке",
+  "type": "module",
+  "scripts": {
+    "test": "node --test __tests__/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
