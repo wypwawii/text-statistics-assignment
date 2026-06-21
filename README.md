@@ -1,6 +1,6 @@
 # Статистика текста
 
-![test-check](https://github.com/wypwawii/my-task/actions/workflows/test-check.yml/badge.svg)
+![test-check](https://github.com/wypwawii/text-statistics-assignment/actions/workflows/test-check.yml/badge.svg?branch=source)
 
 ## Задание
 
@@ -64,4 +64,4 @@ make test
 
 - Ветка **source** содержит задание, тесты и эталонное решение.
 - Ветка **main** обновляется автоматически после успешного прохождения тестов в **source**.
-- В **main** файл **src/index.js** остаётся пустым — это шаблон для выполнения задания.
+- В **main** файл **src/index.js** остаётся пустым. Это шаблон для выполнения задания.
